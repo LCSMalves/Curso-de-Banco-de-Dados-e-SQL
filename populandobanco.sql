@@ -86,3 +86,4 @@ insert into comivenda values(38,15,4,'1513.77',3,0);
 insert into comivenda values(39,16,4,'1513.77',4,0);
 insert into comivenda values(40,17,5,'2325.32',5,0);
 insert into comivenda values(41,18,5,'2325.32',6,0);
+
